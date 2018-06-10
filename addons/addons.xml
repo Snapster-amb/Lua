@@ -336,6 +336,13 @@
     <support>https://discord.gg/b275nMv</support>
   </addon>
   <addon>
+    <name>MountMuzzle</name>
+    <author>Sjshovan (Apogee)</author>
+    <description>Allows the user to change or remove the default mount music.</description>
+    <bugtracker>https://github.com/Windower/Lua/issues</bugtracker>
+    <support>https://discord.gg/b275nMv</support>
+  </addon>
+  <addon>
     <name>Nostrum</name>
     <description>Creates a click-able on-screen macro to help avoid targeting problems while curing.</description>
     <author>trv</author>
@@ -544,6 +551,13 @@
     <support>http://www.ffxiah.com/player/Asura/Zubis</support>
   </addon>
   <addon>
+    <name>SpellBook</name>
+    <author>Sigil Baram (Ravlyn@Asura)</author>
+    <description>List unknown spells by job or category. Can also limit results by level or spent jp required by the spell.</description>
+    <bugtracker>https://github.com/sigilbaram/SpellBook/issues</support>
+    <support>https://discord.gg/b275nMv</support>
+  </addon>
+  <addon>
     <name>StaggerTrack</name>
     <author>Nitrous (Shiva)</author>
     <description>Catches voidwatch weakness messages and prints them to a textbox in case you miss them in the battle spam.</description>
@@ -696,5 +710,33 @@
     <description>A Final Fantasy XI Crafting Addon</description>
     <bugtracker>https://github.com/Snapsmojo/Lua/issues</bugtracker>
     <support>http://www.ffxiah.com/player/Fenrir/Snaps</support>
+  </addon>
+  <addon>
+    <name>Checkparam</name>
+    <author>Centurio aka from20020516</author>
+    <description>Displays the total of property of target player's current equipments.</description>
+    <bugtracker>https://github.com/from20020516/Lua/issues</bugtracker>
+    <support>https://twitter.com/from20020516</support>
+  </addon>
+  <addon>
+    <name>Bonanza</name>
+    <author>Centurio aka from20020516</author>
+    <description>Purchace and Judge Bonanza Marbles.</description>
+    <bugtracker>https://github.com/from20020516/Lua/issues</bugtracker>
+    <support>https://twitter.com/from20020516</support>
+  </addon>
+  <addon>
+    <name>Trusts</name>
+    <author>Centurio aka from20020516</author>
+    <description>Save and Summon trust sets.</description>
+    <bugtracker>https://github.com/from20020516/Lua/issues</bugtracker>
+    <support>https://twitter.com/from20020516</support>
+  </addon>
+  <addon>
+    <name>MyHome</name>
+    <author>Centurio aka from20020516</author>
+    <description>Automatically choose and use warp spell or item.</description>
+    <bugtracker>https://github.com/from20020516/Lua/issues</bugtracker>
+    <support>https://twitter.com/from20020516</support>
   </addon>
 </addons>
